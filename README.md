@@ -24,7 +24,7 @@ To extract meaningful insights from available data, a series of procedures must 
 ## **1. Data Collection**
 The data collection process consisted of downloading the dataset from Kaggle, a platform that hosts datasets and data science resources. This dataset, related to the Netflix series "Squid Game," provided the necessary information for analysis, including tweets and other relevant data.
 
-## **2. Data Evaluation and Cleaning 
+## **2. Data Evaluation and Cleaning**
 The code verifies for duplicate users, ensures all values are present, replaces any missing locations with 'No Location', and eliminates unnecessary columns.
 
 ## **3. Data Preparation**
